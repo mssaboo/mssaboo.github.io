@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: false
 excerpt: "Intern project reports/posters/misc"
 author_profile: true
 permalink: /projects/

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mahesh Saboo"
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from:
