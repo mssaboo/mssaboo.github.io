@@ -31,7 +31,7 @@ Course: Autonomous Navigation<br/>
 
 # Autonomous Underwater Vehicle 
 Involved in developing institute's AUV, funded by DRDO, IITK<br/>
-[link](http://auv-iitk.github.io/)
+[Website](http://auv-iitk.github.io/)
 
 # Carbon Monoxide Sensing
 Mentor: Prof. Niraj Sinha, IIT Kanpur<br/>
