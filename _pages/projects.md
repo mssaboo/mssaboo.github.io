@@ -2,7 +2,7 @@
 title: "Projects"
 excerpt: "Intern project reports/posters/misc"
 author_profile: true
-permalink: /Projects/
+permalink: /projects/
 redirect_from:
   - /tags/
 ---
