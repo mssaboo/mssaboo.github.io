@@ -11,8 +11,7 @@ redirect_from:
 # Gait Event Prediction
 Mentor: Dr. Dilip Kumar Pratihar, IIT Kharagpur
 Summer Internship 2019
-[Report]
-[Report]: <https://mssaboo.github.io/files/Gait.pdf>
+[Report]({%https://mssaboo.github.io/files/Gait.pdf%})
 
 # Ventricular Assist Device (Ongoing)
 Mentor: Prof. Kamal Kar, IIT Kanpur
