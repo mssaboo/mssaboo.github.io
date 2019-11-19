@@ -30,7 +30,7 @@ Course: Autonomous Navigation<br/>
 [Code](https://github.com/mssaboo/Stereo-Matching)
 
 # Autonomous Underwater Vehicle 
-Involved in developing institute's AUV, funded by DRDO, IITK<br/>
+Involved in developing institute's AUV, funded by DoRD, IITK<br/>
 [Website](http://auv-iitk.github.io/)
 
 # Carbon Monoxide Sensing
